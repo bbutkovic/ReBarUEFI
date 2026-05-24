@@ -9,6 +9,7 @@ A UEFI DXE driver to enable Resizable BAR on systems which don't support it offi
 </p>
 
 
+
 ![screenshot showing cpu-z, gpu-z and amd software](rebar.png)
 
 ### If using an NVIDIA Turing GPU (20 or 16 series) see [NvStrapsReBar](https://github.com/terminatorul/NvStrapsReBar) for enabling Resizable BAR on it.
